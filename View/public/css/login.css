@@ -1,0 +1,12 @@
+body {
+    background-color: #ccc;
+}
+
+#form-login {
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+.error {
+    color: red;
+}
